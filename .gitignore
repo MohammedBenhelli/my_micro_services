@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+api_laravel/node_modules
+api_laravel/public/hot
+api_laravel/public/storage
+api_laravel/storage/*.key
+api_laravel/vendor
+api_laravel/.env
+api_laravel/.env.backup
+api_laravel/.phpunit.result.cache
+api_laravel/Homestead.json
+api_laravel/Homestead.yaml
+api_laravel/npm-debug.log
+api_laravel/yarn-error.log
+
+api_node/node_modules
+api_connect/node_modules
